@@ -6,3 +6,4 @@ src/Core/GenericMonolithWebApplication.Infrastructure/GenericMonolithWebApplicat
 src/Core/GenericMonolithWebApplication.Infrastructure/GenericMonolithWebApplication.Persistence/obj/
 bin/
 obj/
+.DS_Store
