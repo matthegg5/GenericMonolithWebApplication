@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\GenericMonolithWebApplication.Domain\GenericMonolithWebApplication.Domain.csproj" />
+    <ProjectReference Include="..\..\GenericMonolithWebApplication.Application\GenericMonolithWebApplication.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>
