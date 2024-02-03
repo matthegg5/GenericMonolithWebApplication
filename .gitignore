@@ -6,6 +6,7 @@ src/API/GenericMonolithWebApplication.API/bin/
 src/API/GenericMonolithWebApplication.API/obj/
 src/Core/GenericMonolithWebApplication.Infrastructure/GenericMonolithWebApplication.Persistence/bin/
 src/Core/GenericMonolithWebApplication.Infrastructure/GenericMonolithWebApplication.Persistence/obj/
+src/Core/GenericMonolithWebApplication.Infrastructure/GenericMonolithWebApplication.Persistence/Migrations/
 bin/
 obj/
 .DS_Store
